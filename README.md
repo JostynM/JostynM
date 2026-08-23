@@ -5,7 +5,7 @@
 ### Data Analyst | Business Intelligence | Ingeniería de Sistemas e Informática
 
 <p>
-  Transformo datos en información útil para apoyar la toma de decisiones.
+  Interesado en transformar datos en información útil para apoyar la toma de decisiones.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=JostynM&label=Visitas%20al%20perfil" alt="Visitas al perfil" />
@@ -17,99 +17,73 @@
 ## 👨‍💻 Sobre mí
 
 <p>
-Soy estudiante de <b>Ingeniería de Sistemas e Informática</b> con interés profesional en
-<b>Data Analytics</b> y <b>Business Intelligence</b>. Me enfoco en desarrollar soluciones
-basadas en datos utilizando SQL, Power BI, Excel y Python, desde la organización y
-modelado de información hasta la creación de dashboards y análisis para la toma de decisiones.
+Soy estudiante de <b>Ingeniería de Sistemas e Informática</b> y estoy orientando mi perfil profesional hacia
+<b>Data Analytics</b> y <b>Business Intelligence</b>. Actualmente desarrollo proyectos con bases de datos,
+análisis de información y visualización de datos, fortaleciendo especialmente SQL, Power BI, Excel y Python.
 </p>
 
 <ul>
-  <li>📊 Enfocado en Data Analytics y Business Intelligence.</li>
-  <li>🗄️ Desarrollo y análisis de bases de datos con SQL.</li>
-  <li>📈 Creación de dashboards y KPIs con Power BI.</li>
-  <li>🐍 Python aplicado al análisis y automatización de datos.</li>
-  <li>🎯 Interesado en oportunidades de prácticas preprofesionales en Analítica y Tecnología.</li>
+  <li>📊 Interés en análisis de datos y Business Intelligence.</li>
+  <li>🗄️ Diseño, consultas y gestión de bases de datos con SQL Server.</li>
+  <li>📈 Visualización de información y KPIs con Power BI.</li>
+  <li>📑 Análisis y transformación de datos con Excel y Power Query.</li>
+  <li>🐍 Python y Pandas para análisis y automatización de datos.</li>
+  <li>🎯 Buscando seguir desarrollándome profesionalmente en Analítica de Datos.</li>
 </ul>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Herramientas de Data Analytics
 
 <div align="center">
 
-### Data & BI
-
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-### Bases de datos
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-### Desarrollo & herramientas
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 </div>
 
 ---
 
-## 📂 Portafolio de proyectos
+## 📂 Proyecto destacado
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Sistema de Ventas SQL Server</h3>
-      <p>
-        Base de datos relacional para gestionar productos, clientes, ventas,
-        inventario y movimientos de stock.
-      </p>
-      <p><b>Stack:</b> SQL Server · T-SQL · Stored Procedures · Triggers</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Dashboard de Ventas</h3>
-      <p>
-        Análisis visual de ventas mediante KPIs, tendencias, productos y clientes
-        para facilitar la toma de decisiones.
-      </p>
-      <p><b>Stack:</b> Power BI · DAX · Power Query · SQL</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ Data Warehouse</h3>
-      <p>
-        Modelado dimensional y preparación de información para análisis de negocio
-        y reporting.
-      </p>
-      <p><b>Stack:</b> SQL Server · ETL · Modelado dimensional</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 Análisis de Datos con Python</h3>
-      <p>
-        Proyectos de limpieza, exploración, transformación y análisis de datasets.
-      </p>
-      <p><b>Stack:</b> Python · Pandas · Matplotlib</p>
-    </td>
-  </tr>
-</table>
+### 🛒 Sistema de Ventas e Inventario — SQL Server
 
-> 🚧 Estoy construyendo y documentando estos proyectos en GitHub. Los repositorios se irán agregando progresivamente a esta sección.
+<p>
+Proyecto desarrollado en <b>SQL Server</b> para simular la gestión de ventas e inventario de un negocio mediante una base de datos relacional.
+El sistema permite organizar información de clientes, productos y ventas, registrar operaciones y mantener actualizado el stock de productos.
+</p>
+
+<b>Trabajo realizado:</b>
+
+<ul>
+  <li>Diseño y creación de tablas relacionadas para el sistema de ventas.</li>
+  <li>Carga de datos para simular un entorno con mayor volumen de información.</li>
+  <li>Consultas SQL para validar, explorar y analizar los datos almacenados.</li>
+  <li>Implementación de lógica para registrar ventas y controlar el inventario.</li>
+  <li>Uso de <b>triggers</b> para actualizar automáticamente el stock después de una venta.</li>
+  <li>Manejo de transacciones y validaciones para mantener la consistencia de la información.</li>
+</ul>
+
+<p>
+  <b>Tecnologías:</b> SQL Server · SQL Server Management Studio · T-SQL · Triggers · Transacciones · Modelo relacional
+</p>
+
+<p>
+  🚧 <b>Estado:</b> En desarrollo. Continuaré agregando consultas de análisis, documentación y mejoras al proyecto.
+</p>
 
 ---
 
 ## 📚 Actualmente fortaleciendo
 
 <p align="center">
-  SQL avanzado · Power BI · DAX · Power Query · Python · Pandas · ETL · Data Warehousing · Modelado de datos
+  SQL · Power BI · DAX · Power Query · Excel · Python · Pandas · ETL · Modelado de datos
 </p>
 
 ---
@@ -128,8 +102,8 @@ modelado de información hasta la creación de dashboards y análisis para la to
 ## 🎯 Objetivo profesional
 
 <p align="center">
-Busco seguir desarrollándome en <b>Data Analytics, Business Intelligence y Tecnología</b>,
-aplicando análisis de datos para resolver problemas reales y generar información de valor para el negocio.
+Continuar desarrollándome en <b>Data Analytics y Business Intelligence</b>, utilizando datos para identificar oportunidades,
+crear indicadores y generar información que apoye la toma de decisiones.
 </p>
 
 ---
