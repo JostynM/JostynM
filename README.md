@@ -52,22 +52,23 @@ análisis de información y visualización de datos, fortaleciendo especialmente
 
 ## 📂 Proyecto destacado
 
-### 🛒 Sistema de Ventas e Inventario — SQL Server
+### 🛒 Sistema de Gestión de Ventas e Inventario — SQL Server
 
 <p>
-Proyecto desarrollado en <b>SQL Server</b> para simular la gestión de ventas e inventario de un negocio mediante una base de datos relacional.
-El sistema permite organizar información de clientes, productos y ventas, registrar operaciones y mantener actualizado el stock de productos.
+Proyecto académico y de portafolio desarrollado en <b>SQL Server</b> para gestionar clientes, productos, pedidos, pagos, empleados, sucursales, proveedores e inventario mediante una base de datos relacional.
 </p>
 
 <b>Trabajo realizado:</b>
 
 <ul>
-  <li>Diseño y creación de tablas relacionadas para el sistema de ventas.</li>
-  <li>Carga de datos para simular un entorno con mayor volumen de información.</li>
-  <li>Consultas SQL para validar, explorar y analizar los datos almacenados.</li>
-  <li>Implementación de lógica para registrar ventas y controlar el inventario.</li>
-  <li>Uso de <b>triggers</b> para actualizar automáticamente el stock después de una venta.</li>
-  <li>Manejo de transacciones y validaciones para mantener la consistencia de la información.</li>
+  <li>Diseño y creación de tablas relacionadas con claves primarias y foráneas.</li>
+  <li>Aplicación de restricciones <b>UNIQUE</b>, <b>CHECK</b> y valores <b>DEFAULT</b>.</li>
+  <li>Carga inicial y carga masiva de datos para simular un entorno con mayor volumen de información.</li>
+  <li>Consultas SQL con JOIN, subconsultas, CTE, GROUP BY, HAVING y funciones de ventana.</li>
+  <li>Creación de vistas, funciones y procedimientos almacenados.</li>
+  <li>Uso de <b>triggers</b> para verificar y descontar automáticamente el stock al registrar una venta.</li>
+  <li>Manejo de transacciones con <b>COMMIT</b>, <b>ROLLBACK</b>, TRY/CATCH y THROW.</li>
+  <li>Generación de backup y documentación técnica del proyecto.</li>
 </ul>
 
 <p>
@@ -75,8 +76,20 @@ El sistema permite organizar información de clientes, productos y ventas, regis
 </p>
 
 <p>
-  🚧 <b>Estado:</b> En desarrollo. Continuaré agregando consultas de análisis, documentación y mejoras al proyecto.
+  ✅ <b>Estado:</b> Proyecto finalizado y documentado.
 </p>
+
+<div align="center">
+
+<a href="https://github.com/JostynM/sistema-ventas-sql-server">
+  <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
+
+<a href="https://github.com/JostynM/sistema-ventas-sql-server/blob/main/DB_GestionVentas_Presentacion.pdf">
+  <img src="https://img.shields.io/badge/Ver_documentación-CC2927?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver documentación" />
+</a>
+
+</div>
 
 ---
 
