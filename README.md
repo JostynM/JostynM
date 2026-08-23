@@ -93,14 +93,6 @@ Proyecto académico y de portafolio desarrollado en <b>SQL Server</b> para gesti
 
 ---
 
-## 📚 Actualmente fortaleciendo
-
-<p align="center">
-  SQL · Power BI · DAX · Power Query · Excel · Python · Pandas · ETL · Modelado de datos
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
