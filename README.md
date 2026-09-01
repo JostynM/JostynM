@@ -19,7 +19,6 @@ Disfruto entender un problema, dividirlo en partes, probar alternativas y conver
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=JostynM&label=Visitas%20al%20perfil" alt="Visitas al perfil" />
 
 </div>
 
