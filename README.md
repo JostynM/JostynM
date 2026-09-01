@@ -19,7 +19,6 @@ Disfruto entender un problema, dividirlo en partes, probar alternativas y conver
 
 <br /><br />
 
-
 </div>
 
 ---
@@ -164,14 +163,6 @@ Base de datos relacional desarrollada para modelar y gestionar clientes, product
 
 ---
 
-## 🎮 Sistemas, decisiones y juegos
-
-Me gustan los videojuegos no solo como entretenimiento, sino también por las reglas y sistemas que construyen detrás.
-
-**Minecraft** me parece especialmente bien diseñado porque parte de reglas relativamente simples y permite que aparezcan soluciones muy distintas según los recursos, objetivos y decisiones del jugador. Esa libertad para experimentar, entender mecánicas y construir estrategias es una de las cosas que más me atrae de los sistemas interactivos.
-
----
-
 ## 🔎 Lo que quiero seguir construyendo
 
 Me interesan proyectos donde existan **datos, actores, estados, reglas y decisiones que generan consecuencias**. Quiero seguir fortaleciendo mi capacidad para construir módulos completos, trabajar con APIs y Python, y participar desde el diseño de una solución hasta sus pruebas y despliegue.
@@ -193,6 +184,12 @@ Me interesan proyectos donde existan **datos, actores, estados, reglas y decisio
 
 <div align="center">
 
+<a href="mailto:hiugammendoza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hiugammendoza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="tel:+51946129167">
+  <img src="https://img.shields.io/badge/Teléfono-%2B51%20946%20129%20167-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono" />
+</a>
 <a href="https://github.com/JostynM">
   <img src="https://img.shields.io/badge/GitHub-JostynM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
