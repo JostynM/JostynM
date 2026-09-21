@@ -113,16 +113,6 @@ Programación en Python Básico | Certificado
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JostynM&show_icons=true&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Contacto
