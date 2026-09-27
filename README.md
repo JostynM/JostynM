@@ -4,9 +4,9 @@
 
 ### Estudiante de Ingeniería de Sistemas e Informática
 
-**SQL Server · JavaScript · Python · Desarrollo Web · Proyectos TI**
+**Full Stack · Bases de Datos · Análisis de Datos**
 
-Me interesa desarrollar soluciones tecnológicas que combinen **software, bases de datos, automatización y mejora de procesos**.
+Me interesa desarrollar soluciones que combinen **desarrollo web, bases de datos, APIs e inteligencia artificial aplicada**.
 
 Actualmente curso el **9.º ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP)**.
 
@@ -24,11 +24,11 @@ Actualmente curso el **9.º ciclo de Ingeniería de Sistemas e Informática en l
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas e Informática con experiencia desarrollando proyectos académicos y personales relacionados con **bases de datos, desarrollo web, automatización y mejora de procesos TI**.
+Soy estudiante de Ingeniería de Sistemas e Informática enfocado en **desarrollo full stack y datos**.
 
-He trabajado con **SQL Server, JavaScript, HTML, CSS, Python y Git/GitHub**, además de herramientas de análisis como **Power BI, Power Query y Excel**.
+He desarrollado proyectos utilizando **React, TypeScript, Python, FastAPI, PostgreSQL y SQL Server**, además de herramientas de análisis como **Power BI, Power Query y Excel**.
 
-Me interesa continuar fortaleciendo mis conocimientos en desarrollo de software, análisis de datos y construcción de soluciones tecnológicas orientadas a problemas reales.
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo de software, diseño de APIs, bases de datos y construcción de soluciones orientadas a problemas reales.
 
 ---
 
@@ -36,19 +36,19 @@ Me interesa continuar fortaleciendo mis conocimientos en desarrollo de software,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
@@ -56,20 +56,20 @@ Me interesa continuar fortaleciendo mis conocimientos en desarrollo de software,
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| 🤖 **Sistema de Automatización de Crédito Vehicular** | Sistema web para registrar y realizar seguimiento de solicitudes de crédito, integrando base de datos y flujos automatizados. | SQL Server · JavaScript · n8n · Webhooks · WhatsApp Cloud API |
-| 🛒 **Sistema de Gestión de Ventas e Inventario** | Base de datos relacional con consultas avanzadas, vistas, procedimientos almacenados, triggers y transacciones. | SQL Server · T-SQL · Git |
-| 🎵 **NOVALT** | Landing page responsive e interactiva desarrollada para un productor musical y desplegada en producción. | HTML · CSS · JavaScript · GSAP · ScrollTrigger |
+### 🛍️ AURA — E-commerce Full Stack de Perfumes
 
-### 🤖 Sistema de Automatización de Crédito Vehicular
+E-commerce full stack para perfumes de diseñador y árabes, desarrollado con una arquitectura frontend + API REST + base de datos.
 
-Sistema orientado al registro y seguimiento de solicitudes de crédito vehicular.
+Incluye **autenticación JWT, catálogo, carrito, favoritos, checkout, pagos, control de stock, pedidos, reseñas, panel administrativo y recomendaciones mediante inteligencia artificial**.
 
-Integra una interfaz web, **SQL Server**, automatización mediante **n8n**, webhooks y WhatsApp Cloud API. El proyecto incluyó modelado de datos, manejo de estados y pruebas funcionales del flujo.
+**Tecnologías:** React · TypeScript · FastAPI · PostgreSQL · Mercado Pago API · Google Gemini API · Resend API · Supabase Storage
 
-<a href="https://github.com/JostynM/Sistema-AutomatizacionCreditoVehicular">
-<img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Automatización" />
+<a href="https://aura-ecommerce-phi.vercel.app">
+<img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo AURA" />
+</a>
+
+<a href="https://github.com/JostynM/aura-ecommerce-">
+<img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio AURA" />
 </a>
 
 ---
@@ -78,7 +78,9 @@ Integra una interfaz web, **SQL Server**, automatización mediante **n8n**, webh
 
 Proyecto de base de datos relacional para administrar clientes, productos, ventas, pagos, sucursales e inventario.
 
-Incluye consultas con `JOIN`, `GROUP BY`, subconsultas y CTE, además de **vistas, procedimientos almacenados, triggers, transacciones, carga masiva y respaldos**.
+Incluye consultas avanzadas, **JOIN, GROUP BY, subconsultas, CTE, vistas, procedimientos almacenados, funciones, triggers, transacciones, carga masiva y respaldos**.
+
+**Tecnologías:** SQL Server · T-SQL · Git
 
 <a href="https://github.com/JostynM/sistema-ventas-sql-server">
 <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio SQL Server" />
@@ -88,12 +90,12 @@ Incluye consultas con `JOIN`, `GROUP BY`, subconsultas y CTE, además de **vista
 
 ### 🎵 NOVALT — Landing Page
 
-Landing page responsive desarrollada para un productor musical, con componentes interactivos y animaciones activadas durante el scroll.
+Landing page responsive desarrollada para un productor musical, con diseño interactivo y animaciones durante el scroll.
 
-Proyecto desarrollado con **HTML, CSS, JavaScript, GSAP y ScrollTrigger** y desplegado en Vercel.
+**Tecnologías:** HTML · CSS · JavaScript · GSAP · ScrollTrigger
 
 <a href="https://novalt-landing.vercel.app/">
-<img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo" />
+<img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo NOVALT" />
 </a>
 
 <a href="https://github.com/JostynM/novalt-landing">
